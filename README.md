@@ -1,5 +1,9 @@
 # Modern Cryptoart with React.js & Web 3.0 - A Front End Project
 
+A coleção NFT foi criada usando o Thirdweb e mintada usando a testnet Rinkeby.
+
+The NFT collection was created using Thirdweb and Rinkeby testnet.
+
 ## Getting Started
 
 [Brazuca]
